@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body
+{
+	margin: 50px;
+	text-align: left;
+	font-family: Verdana;
+	background-color: #D0E9E1
+}
+
+.mainHeader
+{
+	background-color: rgba(255, 255, 255, 0.7);
+	height: 100px;
+}
+
+.mainHeader p
+{
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover
+{
+	color: #4D8984;
+}
+
+h1
+{
+	padding-top: 10px;
+	text-align: center;
+}
+
+h2
+{
+	font-family: Arial, bold;
+	font-size: 30px;
+}
